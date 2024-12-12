@@ -1,5 +1,5 @@
 import streamlit as st
 
-st.title('First Machine Learning Project')
+st.title('Proyek Pertama Machine Learning')
 
-st.write('Hello world!')
+st.info('App ini digunakan untuk melakukan deployment Machine Learning')
