@@ -15,5 +15,5 @@ with st.expander('Data'):
   x
 
   st.write('**Y**')
-  y = df.spesies
+  y = df.species
   y
